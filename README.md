@@ -1,4 +1,4 @@
 ResonantAndroid
 ===============
 
-First tests exploring android relations
+First tests exploring android relations as
